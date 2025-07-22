@@ -42,6 +42,7 @@ battleship-graphics-cpp/
 ├── .gitignore
 ├── README.md
 └── RAYLIB-SETUP.md
+```
 ## How to Build & Run
 
 1. Clone or download this repository.
