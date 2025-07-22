@@ -46,9 +46,8 @@ battleship-graphics-cpp/
 ## How to Build & Run
 
 1. Clone or download this repository.
-
+   #https://github.com/raylib-extras/raylib-quickstart
 2. Make sure you have Raylib set up in Visual Studio.
-   #You can use the raylib-quickstart repository to install Raylib quickly.
 
 3.Open game-premake-main.sln in Visual Studio.
 
